@@ -8,7 +8,7 @@ Transformar y visualizar los datos de manera que permita a los propietarios de t
 
 ## Resultados del Análisis
 - Bajo rendimiento en la categoría Belleza.
-  -En ambos géneros, la categoría de Belleza es la que muestra menor cantidad de ventas por lo que se recomienda implementar promociones en estos productos para que su nivel de ventas aumenten y se pueda generar un mayor rendimiento.
+  - En ambos géneros, la categoría de Belleza es la que muestra menor cantidad de ventas por lo que se recomienda implementar promociones en estos productos para que su nivel de ventas aumenten y se pueda generar un mayor rendimiento.
 - Mayor porcentaje de compra por parte del género femenino.
   - El mayor número de ventas se muestra en los clientes de género femenino, implementar estrategias aprovechando la tendencia de compra de este genero puede ser de mucho beneficio para la empresa para lograr tener un mayor rendimiento.
 - Se registraron menor cantidad de ventas en clientes con 39 años de edad.
